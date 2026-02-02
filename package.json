@@ -1,0 +1,26 @@
+{
+  "name": "tillnow",
+  "version": "1.0.0",
+  "description": "practice of till now react",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byteofanam/tillnow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byteofanam/tillnow/issues"
+  },
+  "homepage": "https://github.com/byteofanam/tillnow#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
