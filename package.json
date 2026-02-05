@@ -2,8 +2,8 @@
   "name": "tillnow",
   "version": "1.0.0",
   "description": "practice of till now react",
-  "main": "script.js",
   "scripts": {
+    "start": "npx parcel index.html",
     "test": "jest"
   },
   "repository": {
