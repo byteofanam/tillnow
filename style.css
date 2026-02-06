@@ -44,3 +44,8 @@
     height: 200px;
     object-fit: cover;
 }
+.resContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
